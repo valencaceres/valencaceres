@@ -6,7 +6,9 @@ Soy un desarrollador apasionado por las tecnologías web y móvil. Me encanta ap
 
 Aquí hay un gráfico que muestra las tecnologías que más utilizo en mis proyectos:
 
-[![Top Tecnologías](https://github-readme-stats.vercel.app/api/top-langs/?username=valencaceres&layout=compact&theme=dark)](https://github.com/valencaceres)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencaceres&layout=compact&theme=dark" alt="Top Tecnologías">
+</div>
 
 
 ## Proyectos destacados
