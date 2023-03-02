@@ -25,7 +25,7 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres contactarme, no dudes en enviarme un correo electrónico o encontrarme en LinkedIn.
 
 
-##---
+//
 
 
 #Hi, I'm Valentín 👋
