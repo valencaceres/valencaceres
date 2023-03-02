@@ -1,17 +1,20 @@
-###                                                               Hola 👋 Soy Valentin
-###                                                          Full Stack Web Developer in MERN
+# Hola, soy Valentín 👋
 
-<!--
-**valencaceres/valencaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por las tecnologías web y móvil. Me encanta aprender cosas nuevas y explorar nuevas herramientas y tecnologías para mejorar mis habilidades como desarrollador.
 
-Here are some ideas to get you started:
+## Tecnologías más utilizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aquí hay un gráfico que muestra las tecnologías que más utilizo en mis proyectos:
+
+[![Top Tecnologías](https://github-readme-stats.vercel.app/api/top-langs/?username=valencaceres&layout=compact)](https://github.com/valencaceres)
+
+## Proyectos destacados
+
+Aquí hay una lista de algunos de mis proyectos más destacados:
+
+- [Minga Front](https://github.com/valencaceres/minga-front): Front del proyecto minga. Pagina para leer comics y mangas.
+- [Minga Back](https://github.com/valencaceres/minga-back): Back del proyecto minga.
+- [Proyecto 3](https://github.com/valencaceres/vinland-front): Font del proyecto Vinland. Pagina para comprar vinilos.
+- [Proyecto 4](https://github.com/valencaceres/vinland-backend): Back del proyecto Vinland.
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres contactarme, no dudes en enviarme un correo electrónico o encontrarme en LinkedIn.
