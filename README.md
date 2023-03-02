@@ -25,9 +25,9 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres contactarme, no dudes en enviarme un correo electrónico o encontrarme en LinkedIn.
 
 
-<hr style="height: 1px; border: none;">
-<hr style="height: 1px; border: none;">
-<hr style="height: 1px; border: none;">
+<hr style="background-color: #e1e4e8; height: 1px; border: none;">
+<hr style="background-color: #e1e4e8; height: 1px; border: none;">
+<hr style="background-color: #e1e4e8; height: 1px; border: none;">
 
 
 
