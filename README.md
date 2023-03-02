@@ -26,21 +26,22 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 
 
 <hr style="background-color: #F5F5F5; height: 1px; border: none;">
+<hr style="background-color: #F5F5F5; height: 1px; border: none;">
+<hr style="background-color: #F5F5F5; height: 1px; border: none;">
 
 
 
-
-#Hi, I'm Valentín 👋
+# Hi, I'm Valentín 👋
 I'm a web developer passionate about web technologies. I love learning new things and exploring new tools and technologies to improve my skills as a developer.
 
-##Most Used Technologies
+## Most Used Technologies
 Here's a chart that shows the technologies I use the most in my projects:
 
 <div align="center" style="background-color: #0D1117; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencaceres&layout=compact&theme=dark&card_width=445&card_height=250" alt="Top Technologies" style="border-radius: 10px;">
 </div>
 
-##Featured Projects
+## Featured Projects
 Here's a list of some of my most featured projects:
 
 - [Minga Front](https://github.com/valencaceres/minga-front): Front of the Minga project. A website to read comics and manga.
