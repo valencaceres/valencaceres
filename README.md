@@ -7,8 +7,7 @@ Soy un desarrollador apasionado por las tecnologías web y móvil. Me encanta ap
 Aquí hay un gráfico que muestra las tecnologías que más utilizo en mis proyectos:
 
 <div align="center" style="background-color: #0D1117; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencaceres&layout=compact&theme=dark&card_width=445&card_height=195
-" alt="Top Tecnologías" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencaceres&layout=compact&theme=dark&card_width=445&card_height=195" alt="Top Tecnologías" style="border-radius: 10px;">
 </div>
 
 
