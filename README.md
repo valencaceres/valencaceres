@@ -1,6 +1,6 @@
 # Hola, soy Valentín 👋
 
-Soy un desarrollador apasionado por las tecnologías web y móvil. Me encanta aprender cosas nuevas y explorar nuevas herramientas y tecnologías para mejorar mis habilidades como desarrollador.
+Soy un desarrollador apasionado por las tecnologías web. Me encanta aprender cosas nuevas y explorar nuevas herramientas y tecnologías para mejorar mis habilidades como desarrollador.
 
 ## Tecnologías más utilizadas
 
