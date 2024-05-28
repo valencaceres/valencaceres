@@ -17,10 +17,10 @@ Aquí hay un gráfico que muestra las tecnologías que más utilizo en mis proye
 
 Aquí hay una lista de algunos de mis proyectos más destacados:
 
-- [Minga Front](https://github.com/valencaceres/minga-front): Front del proyecto minga. Pagina para leer comics y mangas.
-- [Minga Back](https://github.com/valencaceres/minga-back): Back del proyecto minga.
-- [Vinland Front](https://github.com/valencaceres/vinland-front): Font del proyecto Vinland. Pagina para comprar vinilos.
-- [Vinland Back](https://github.com/valencaceres/vinland-backend): Back del proyecto Vinland.
+- [ServiClick](https://github.com/cmatus/ServiClick): Repositorio de la aplicacion serviclick.
+- [TicketApp](https://github.com/cmatus/ticket-app): Repositorio de la aplicacion ticketApp.
+- [El parron](https://github.com/cmatus/elparron-2022): Repositorio de la aplicacion de el parron.
+- [Laiki club](https://github.com/cmatus/laiki): Repositorio de la aplicacion de laikiClub.
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres contactarme, no dudes en enviarme un correo electrónico o encontrarme en LinkedIn.
 
@@ -44,10 +44,10 @@ Here's a chart that shows the technologies I use the most in my projects:
 ## Featured Projects
 Here's a list of some of my most featured projects:
 
-- [Minga Front](https://github.com/valencaceres/minga-front): Front of the Minga project. A website to read comics and manga.
-- [Minga Back](https://github.com/valencaceres/minga-back): Back of the Minga project.
-- [Vinland Front](https://github.com/valencaceres/vinland-front): Front of the Vinland project. A website to buy vinyls.
-- [Vinland Back](https://github.com/valencaceres/vinland-backend): Back of the Vinland project.
+- [ServiClick](https://github.com/cmatus/ServiClick): Repository of the ServiClick application.
+- [TicketApp](https://github.com/cmatus/ticket-app): Repository of the TicketApp application.
+- [El parron](https://github.com/cmatus/elparron-2022): Repository of the El Parron application.
+- [Laiki club](https://github.com/cmatus/laiki): Repository of the Laiki Club application.
 
 
 Thanks for visiting my profile! If you have any questions or want to contact me, feel free to send me an email or find me on LinkedIn.
